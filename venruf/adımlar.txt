@@ -1,0 +1,3 @@
+ilk önce setup dosyasını açın ve istediyiniz yolu seçin buraya kurulacak masaüstü önerilir ama setup ladandık tan sonra dosyayı silmeyin veya taşımayın! dosyasının adımları çalısmazsa: clean komutu tüm verileri siler! Disk numarasını yanlış seçmemeye dikkat et.
+Eğer USB’nin NTFS olması gerekiyorsa format fs=ntfs quick olarak değiştirebilirsin.
+Başka eklemek istediğin bir şey var mı?ık tan sonra bu venruf dosyasını silmeyin!
